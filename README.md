@@ -1,11 +1,25 @@
 # ETL Sales Data Pipeline
 
+## ❓ Problem Statement
+
+Sales data is often stored in raw CSV formats, making it difficult to analyze and query efficiently.
+
+This project builds an ETL pipeline to clean and load the data into a structured PostgreSQL database for better analysis.
+
+## 🎯 Impact
+
+This pipeline enables structured storage of sales data, making it easier to run SQL queries and generate insights.
+
+
 ## 🚀 Overview
 This project demonstrates an end-to-end ETL (Extract, Transform, Load) pipeline using Python.
 
 It extracts raw sales data from a CSV file, transforms it using pandas, and loads it into a PostgreSQL database hosted on Neon.
 
 ---
+## 🏗️ Architecture
+
+CSV File → Pandas (Transform) → PostgreSQL (Neon)
 
 ## 🛠️ Tech Stack
 - Python
@@ -50,7 +64,9 @@ python etl.py
 
 📊 Output
 Data is stored in PostgreSQL table: sales
-<img width="1919" height="934" alt="Screenshot 2026-04-16 195620" src="https://github.com/user-attachments/assets/a780a4ec-45b6-4ae2-9993-1a14b3c1cb44" />
+
+<img width="1911" height="827" alt="Screenshot 2026-04-16 195655" src="https://github.com/user-attachments/assets/1a1b7cf8-618b-4788-aeb7-259329005d92" />
+
 
 🔐 Environment Variables
 
@@ -71,10 +87,3 @@ Add dashboard (Power BI / Streamlit)
 Add logging and monitoring
 ---
 
-## ❓ Problem Statement
-
-Businesses often store sales data in raw formats (CSV), making it difficult to analyze.  
-This pipeline automates cleaning and loading data into a database for analysis.
-## 🎯 Impact
-
-This pipeline enables structured storage of sales data, making it easier to run SQL queries and generate insights.
