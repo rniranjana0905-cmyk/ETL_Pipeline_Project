@@ -65,7 +65,9 @@ python etl.py
 📊 Output
 Data is stored in PostgreSQL table: sales
 
-<img width="1911" height="827" alt="Screenshot 2026-04-16 195655" src="https://github.com/user-attachments/assets/1a1b7cf8-618b-4788-aeb7-259329005d92" />
+<img width="1911" height="827" alt="Screenshot 2026-04-16 195655" src="https://github.com/user-attachments/assets/fff89211-7cff-49a1-b30c-fe4655006246" />
+<img width="1919" height="934" alt="Screenshot 2026-04-16 195620" src="https://github.com/user-attachments/assets/b7ea0e2d-b385-4fc3-bb7a-e601fef7a273" />
+
 
 
 🔐 Environment Variables
