@@ -1,0 +1,501 @@
+Order ID,Order Date,Ship Date,Ship Mode,Segment,Region,Category,Sub-Category,Sales,Quantity,Discount,Profit
+ORD-1000,5/24/2024,5/9/2024,Standard Class,Corporate,West,Office Supplies,Binders,467.63,6,0.3,-93.53
+ORD-1001,9/9/2024,6/5/2024,Second Class,Home Office,Central,Technology,Accessories,278.63,6,0.2,-27.86
+ORD-1002,5/21/2024,1/8/2024,Same Day,Corporate,Central,Furniture,Tables,226.74,1,0.2,-22.67
+ORD-1003,8/4/2024,5/21/2024,Same Day,Home Office,East,Office Supplies,Paper,435.21,2,0,43.52
+ORD-1004,2/19/2024,11/9/2024,Same Day,Consumer,West,Furniture,Bookcases,304.67,7,0.1,0
+ORD-1005,10/24/2024,1/16/2024,Standard Class,Consumer,East,Office Supplies,Binders,395.99,1,0.1,0
+ORD-1006,7/14/2024,5/6/2024,Same Day,Corporate,West,Technology,Copiers,55.21,7,0.1,0
+ORD-1007,9/23/2024,10/6/2024,Same Day,Corporate,South,Office Supplies,Paper,345.84,9,0,34.58
+ORD-1008,5/31/2024,7/2/2024,Second Class,Corporate,East,Furniture,Bookcases,145.27,1,0,14.53
+ORD-1009,1/3/2024,3/17/2024,Same Day,Corporate,South,Furniture,Chairs,387.43,7,0,38.74
+ORD-1010,2/6/2024,12/25/2024,Same Day,Corporate,West,Office Supplies,Binders,235.03,5,0.2,-23.5
+ORD-1011,1/11/2024,10/6/2024,Standard Class,Corporate,South,Office Supplies,Binders,294.08,1,0.1,0
+ORD-1012,5/20/2024,7/12/2024,First Class,Consumer,East,Office Supplies,Binders,187.47,5,0,18.75
+ORD-1013,8/8/2024,4/13/2024,First Class,Home Office,Central,Furniture,Bookcases,259.09,3,0,25.91
+ORD-1014,11/23/2024,6/25/2024,First Class,Corporate,East,Furniture,Tables,215.91,7,0.2,-21.59
+ORD-1015,4/24/2024,4/7/2024,Second Class,Consumer,Central,Technology,Phones,297.74,7,0.1,0
+ORD-1016,4/6/2024,1/26/2024,Second Class,Home Office,East,Furniture,Tables,419.21,6,0.3,-83.84
+ORD-1017,1/25/2024,5/17/2024,First Class,Corporate,East,Furniture,Chairs,51.68,9,0.3,-10.34
+ORD-1018,8/7/2024,6/26/2024,Second Class,Corporate,West,Furniture,Tables,71.54,9,0.1,0
+ORD-1019,11/18/2024,10/29/2024,Standard Class,Corporate,South,Technology,Accessories,153.59,4,0,15.36
+ORD-1020,2/18/2024,11/6/2024,Standard Class,Corporate,West,Office Supplies,Paper,407.41,5,0.3,-81.48
+ORD-1021,4/9/2024,2/2/2024,Standard Class,Consumer,East,Technology,Phones,93.6,9,0.1,0
+ORD-1022,4/23/2024,10/3/2024,Standard Class,Home Office,South,Technology,Accessories,334.08,4,0,33.41
+ORD-1023,2/23/2024,8/31/2024,First Class,Consumer,West,Technology,Copiers,470.58,8,0.3,-94.12
+ORD-1024,8/19/2024,3/20/2024,Same Day,Corporate,South,Furniture,Chairs,384.49,7,0.3,-76.9
+ORD-1025,6/7/2024,5/25/2024,Standard Class,Consumer,West,Furniture,Bookcases,494.54,9,0.2,-49.45
+ORD-1026,6/5/2024,5/30/2024,First Class,Corporate,Central,Furniture,Bookcases,241.83,4,0.1,0
+ORD-1027,6/27/2024,10/27/2024,Second Class,Home Office,West,Office Supplies,Storage,381.32,1,0,38.13
+ORD-1028,2/21/2024,5/18/2024,Same Day,Consumer,South,Technology,Phones,423.03,1,0,42.3
+ORD-1029,12/10/2024,7/27/2024,First Class,Home Office,South,Technology,Accessories,467.35,4,0,46.74
+ORD-1030,4/24/2024,8/26/2024,Second Class,Consumer,East,Furniture,Bookcases,287.19,6,0,28.72
+ORD-1031,8/3/2024,5/5/2024,Same Day,Consumer,Central,Technology,Copiers,460.99,9,0.3,-92.2
+ORD-1032,6/20/2024,7/3/2024,Second Class,Corporate,West,Technology,Phones,475.03,3,0.1,0
+ORD-1033,12/6/2024,1/31/2024,Same Day,Consumer,Central,Office Supplies,Paper,185.47,1,0.2,-18.55
+ORD-1034,3/24/2024,8/27/2024,Standard Class,Corporate,Central,Technology,Phones,240.74,8,0.2,-24.07
+ORD-1035,9/6/2024,12/17/2024,Second Class,Corporate,East,Office Supplies,Binders,27.46,3,0.2,-2.75
+ORD-1036,12/4/2024,12/28/2024,Same Day,Corporate,West,Office Supplies,Binders,281.07,5,0,28.11
+ORD-1037,10/18/2024,12/3/2024,First Class,Corporate,East,Furniture,Chairs,211.72,5,0.1,0
+ORD-1038,5/10/2024,8/15/2024,Second Class,Corporate,East,Furniture,Tables,417.85,9,0,41.78
+ORD-1039,11/15/2024,2/16/2024,Standard Class,Corporate,South,Furniture,Chairs,431.99,2,0.2,-43.2
+ORD-1040,2/28/2024,2/7/2024,Second Class,Corporate,West,Furniture,Tables,192.71,9,0.1,0
+ORD-1041,7/22/2024,7/10/2024,Same Day,Consumer,Central,Technology,Copiers,184.81,5,0.3,-36.96
+ORD-1042,6/13/2024,10/10/2024,Standard Class,Corporate,West,Office Supplies,Storage,430.35,7,0.1,0
+ORD-1043,1/8/2024,9/29/2024,Same Day,Corporate,South,Technology,Copiers,29.27,3,0.2,-2.93
+ORD-1044,6/7/2024,8/8/2024,Standard Class,Consumer,East,Office Supplies,Storage,491.75,9,0,49.18
+ORD-1045,5/13/2024,2/12/2024,First Class,Consumer,East,Technology,Accessories,185.68,6,0.1,0
+ORD-1046,7/19/2024,10/31/2024,Second Class,Consumer,East,Furniture,Bookcases,73.23,6,0.1,0
+ORD-1047,11/20/2024,5/11/2024,First Class,Consumer,Central,Office Supplies,Binders,46.62,7,0.3,-9.32
+ORD-1048,11/26/2024,6/7/2024,Same Day,Corporate,West,Furniture,Chairs,124.4,5,0.2,-12.44
+ORD-1049,10/7/2024,12/1/2024,Second Class,Corporate,East,Furniture,Chairs,269.29,4,0,26.93
+ORD-1050,11/30/2024,7/29/2024,First Class,Home Office,Central,Furniture,Chairs,475.91,3,0.2,-47.59
+ORD-1051,8/18/2024,8/7/2024,Second Class,Consumer,West,Furniture,Bookcases,384.44,6,0.2,-38.44
+ORD-1052,11/30/2024,2/3/2024,Same Day,Corporate,Central,Office Supplies,Paper,144.66,6,0.1,0
+ORD-1053,12/19/2024,8/15/2024,Standard Class,Consumer,East,Technology,Accessories,41.92,4,0.2,-4.19
+ORD-1054,2/22/2024,10/29/2024,Same Day,Corporate,Central,Furniture,Tables,483.7,8,0.2,-48.37
+ORD-1055,7/2/2024,12/25/2024,First Class,Consumer,Central,Furniture,Tables,297.09,7,0.1,0
+ORD-1056,7/3/2024,2/21/2024,Standard Class,Consumer,Central,Furniture,Tables,110.55,8,0,11.06
+ORD-1057,4/5/2024,12/27/2024,First Class,Consumer,West,Technology,Phones,330.44,6,0.3,-66.09
+ORD-1058,5/2/2024,2/1/2024,Second Class,Home Office,South,Office Supplies,Storage,403.33,3,0,40.33
+ORD-1059,9/28/2024,7/18/2024,Standard Class,Consumer,South,Office Supplies,Paper,398.04,4,0.2,-39.8
+ORD-1060,8/17/2024,4/3/2024,Same Day,Home Office,Central,Office Supplies,Storage,474.82,7,0.3,-94.96
+ORD-1061,6/17/2024,6/21/2024,Standard Class,Corporate,South,Office Supplies,Storage,206.16,8,0.2,-20.62
+ORD-1062,1/15/2024,6/13/2024,First Class,Consumer,East,Furniture,Bookcases,415.52,2,0.2,-41.55
+ORD-1063,1/22/2024,7/15/2024,Same Day,Consumer,Central,Furniture,Chairs,74.4,3,0.2,-7.44
+ORD-1064,3/9/2024,6/22/2024,Standard Class,Corporate,West,Technology,Accessories,491.43,5,0,49.14
+ORD-1065,4/28/2024,12/25/2024,First Class,Consumer,East,Technology,Accessories,333.77,3,0,33.38
+ORD-1066,8/27/2024,6/2/2024,Second Class,Corporate,East,Technology,Phones,476.57,8,0,47.66
+ORD-1067,6/10/2024,9/14/2024,First Class,Corporate,East,Office Supplies,Binders,318.8,7,0,31.88
+ORD-1068,2/1/2024,6/28/2024,First Class,Consumer,Central,Technology,Copiers,295.39,3,0.3,-59.08
+ORD-1069,11/24/2024,12/30/2024,Standard Class,Consumer,East,Furniture,Tables,330.91,6,0.2,-33.09
+ORD-1070,2/16/2024,10/18/2024,First Class,Consumer,Central,Furniture,Chairs,390.71,6,0.1,0
+ORD-1071,2/27/2024,6/2/2024,Standard Class,Consumer,East,Office Supplies,Binders,166.67,9,0.2,-16.67
+ORD-1072,5/21/2024,5/7/2024,Same Day,Consumer,South,Technology,Copiers,288.09,8,0.3,-57.62
+ORD-1073,2/28/2024,8/20/2024,First Class,Home Office,Central,Office Supplies,Storage,296.84,4,0,29.68
+ORD-1074,10/3/2024,2/10/2024,Standard Class,Home Office,Central,Office Supplies,Binders,198.22,4,0.1,0
+ORD-1075,3/15/2024,5/29/2024,First Class,Corporate,South,Technology,Phones,215.22,1,0.2,-21.52
+ORD-1076,7/18/2024,3/10/2024,First Class,Home Office,Central,Technology,Accessories,356.9,2,0.3,-71.38
+ORD-1077,9/23/2024,1/17/2024,First Class,Consumer,Central,Office Supplies,Storage,393.75,5,0.2,-39.38
+ORD-1078,11/1/2024,12/29/2024,First Class,Corporate,West,Furniture,Tables,386.78,4,0.2,-38.68
+ORD-1079,9/27/2024,3/18/2024,Same Day,Corporate,East,Furniture,Chairs,100.63,8,0.1,0
+ORD-1080,12/4/2024,9/7/2024,Same Day,Consumer,East,Furniture,Chairs,248.9,7,0.2,-24.89
+ORD-1081,5/23/2024,10/23/2024,Standard Class,Home Office,East,Office Supplies,Paper,86.08,8,0.3,-17.22
+ORD-1082,7/27/2024,11/4/2024,Second Class,Home Office,West,Technology,Phones,37.8,5,0.2,-3.78
+ORD-1083,1/19/2024,10/22/2024,First Class,Corporate,Central,Technology,Accessories,210.46,7,0.2,-21.05
+ORD-1084,9/14/2024,2/2/2024,First Class,Corporate,South,Furniture,Chairs,181.05,4,0.2,-18.1
+ORD-1085,7/16/2024,1/2/2024,Second Class,Home Office,South,Furniture,Bookcases,151.58,1,0.3,-30.32
+ORD-1086,9/10/2024,1/19/2024,First Class,Consumer,South,Technology,Copiers,378.71,3,0.3,-75.74
+ORD-1087,8/31/2024,7/6/2024,Second Class,Corporate,West,Office Supplies,Binders,424.93,8,0.3,-84.99
+ORD-1088,1/26/2024,9/7/2024,Standard Class,Consumer,West,Technology,Accessories,115.5,5,0.2,-11.55
+ORD-1089,11/26/2024,5/31/2024,Standard Class,Corporate,Central,Office Supplies,Binders,100.68,9,0.1,0
+ORD-1090,4/27/2024,3/14/2024,First Class,Corporate,Central,Technology,Accessories,247.44,6,0.3,-49.49
+ORD-1091,6/17/2024,8/29/2024,Standard Class,Corporate,Central,Office Supplies,Paper,390.96,7,0.2,-39.1
+ORD-1092,8/3/2024,3/18/2024,First Class,Consumer,West,Technology,Copiers,42.78,4,0.3,-8.56
+ORD-1093,12/19/2024,11/27/2024,Same Day,Home Office,Central,Technology,Accessories,465.57,3,0.1,0
+ORD-1094,5/9/2024,1/14/2024,Same Day,Consumer,West,Office Supplies,Storage,379.58,4,0.2,-37.96
+ORD-1095,11/25/2024,1/6/2024,Same Day,Consumer,South,Office Supplies,Binders,366.07,7,0,36.61
+ORD-1096,11/16/2024,2/7/2024,Same Day,Corporate,Central,Technology,Copiers,311.09,3,0,31.11
+ORD-1097,1/29/2024,10/2/2024,Same Day,Corporate,East,Furniture,Tables,294.75,3,0.1,0
+ORD-1098,1/8/2024,1/18/2024,First Class,Home Office,East,Office Supplies,Storage,91.97,2,0.1,0
+ORD-1099,2/13/2024,2/25/2024,Standard Class,Corporate,Central,Furniture,Tables,491.39,5,0.3,-98.28
+ORD-1100,11/29/2024,6/14/2024,Second Class,Home Office,West,Furniture,Chairs,493.92,3,0.3,-98.78
+ORD-1101,6/28/2024,6/19/2024,Same Day,Corporate,East,Office Supplies,Binders,272.87,3,0,27.29
+ORD-1102,10/11/2024,3/5/2024,First Class,Home Office,Central,Technology,Copiers,212.9,9,0.3,-42.58
+ORD-1103,12/29/2024,2/1/2024,Standard Class,Corporate,South,Technology,Phones,272.95,7,0.2,-27.3
+ORD-1104,2/23/2024,6/19/2024,First Class,Corporate,West,Technology,Copiers,157.62,2,0.1,0
+ORD-1105,1/22/2024,3/8/2024,Second Class,Home Office,West,Technology,Phones,307.32,3,0.2,-30.73
+ORD-1106,12/29/2024,11/10/2024,Second Class,Home Office,South,Furniture,Tables,359.06,3,0,35.91
+ORD-1107,7/29/2024,10/13/2024,Standard Class,Corporate,Central,Furniture,Bookcases,227.83,7,0,22.78
+ORD-1108,11/28/2024,1/26/2024,Standard Class,Corporate,South,Technology,Phones,52.55,5,0.3,-10.51
+ORD-1109,9/6/2024,12/15/2024,Standard Class,Corporate,East,Technology,Accessories,292.22,1,0.3,-58.44
+ORD-1110,11/19/2024,11/30/2024,Same Day,Consumer,South,Furniture,Bookcases,50,7,0.1,0
+ORD-1111,7/26/2024,2/1/2024,Standard Class,Consumer,West,Furniture,Tables,142.76,4,0,14.28
+ORD-1112,3/11/2024,8/16/2024,Second Class,Home Office,South,Technology,Copiers,137.45,5,0.2,-13.74
+ORD-1113,11/9/2024,6/25/2024,First Class,Corporate,Central,Furniture,Bookcases,483.19,3,0.3,-96.64
+ORD-1114,9/13/2024,6/3/2024,First Class,Home Office,West,Furniture,Bookcases,290.96,1,0.3,-58.19
+ORD-1115,9/10/2024,8/18/2024,Same Day,Corporate,East,Technology,Copiers,330.93,9,0.2,-33.09
+ORD-1116,7/16/2024,7/8/2024,Same Day,Home Office,South,Technology,Copiers,488.11,8,0,48.81
+ORD-1117,6/3/2024,8/29/2024,Standard Class,Consumer,West,Furniture,Tables,317.4,9,0.3,-63.48
+ORD-1118,8/1/2024,8/9/2024,Same Day,Home Office,East,Furniture,Bookcases,354.74,7,0,35.47
+ORD-1119,10/30/2024,9/6/2024,Standard Class,Corporate,East,Technology,Copiers,446.43,9,0,44.64
+ORD-1120,2/5/2024,12/24/2024,Second Class,Home Office,Central,Technology,Copiers,347.58,5,0,34.76
+ORD-1121,11/15/2024,7/18/2024,First Class,Corporate,West,Office Supplies,Storage,103.87,5,0.3,-20.77
+ORD-1122,3/26/2024,2/3/2024,Same Day,Corporate,West,Technology,Copiers,141.63,4,0.2,-14.16
+ORD-1123,11/11/2024,1/28/2024,Same Day,Consumer,Central,Office Supplies,Storage,359.51,8,0.1,0
+ORD-1124,5/1/2024,2/28/2024,Second Class,Home Office,West,Furniture,Tables,392.17,9,0.2,-39.22
+ORD-1125,8/27/2024,7/14/2024,First Class,Corporate,South,Office Supplies,Paper,425.37,6,0.2,-42.54
+ORD-1126,3/23/2024,5/15/2024,Same Day,Consumer,East,Technology,Phones,433.32,9,0.3,-86.66
+ORD-1127,12/28/2024,1/16/2024,Standard Class,Home Office,Central,Technology,Copiers,20.57,4,0.3,-4.11
+ORD-1128,2/17/2024,6/12/2024,Standard Class,Consumer,South,Technology,Accessories,166.41,3,0.1,0
+ORD-1129,11/1/2024,11/4/2024,Standard Class,Corporate,Central,Technology,Copiers,475.44,9,0.3,-95.09
+ORD-1130,8/14/2024,5/19/2024,First Class,Consumer,South,Furniture,Bookcases,357.69,1,0.1,0
+ORD-1131,8/18/2024,12/1/2024,Second Class,Corporate,South,Technology,Phones,254.19,8,0,25.42
+ORD-1132,1/10/2024,11/19/2024,Second Class,Home Office,Central,Technology,Phones,91.44,7,0,9.14
+ORD-1133,10/7/2024,11/10/2024,First Class,Consumer,West,Technology,Accessories,265.3,7,0.1,0
+ORD-1134,11/7/2024,7/25/2024,First Class,Consumer,South,Technology,Accessories,34.93,3,0,3.49
+ORD-1135,11/29/2024,4/16/2024,First Class,Consumer,South,Office Supplies,Paper,416.15,8,0.2,-41.62
+ORD-1136,1/18/2024,7/3/2024,Second Class,Home Office,Central,Office Supplies,Paper,88.27,6,0.3,-17.65
+ORD-1137,2/25/2024,1/8/2024,First Class,Consumer,West,Furniture,Bookcases,22.65,4,0,2.26
+ORD-1138,8/1/2024,3/15/2024,Same Day,Corporate,Central,Technology,Copiers,128.04,3,0.3,-25.61
+ORD-1139,11/17/2024,11/4/2024,Standard Class,Home Office,West,Furniture,Tables,402.54,3,0.2,-40.25
+ORD-1140,11/4/2024,2/14/2024,Standard Class,Consumer,East,Office Supplies,Storage,166.13,1,0.2,-16.61
+ORD-1141,4/13/2024,12/21/2024,Same Day,Corporate,Central,Office Supplies,Storage,174.09,9,0.2,-17.41
+ORD-1142,10/25/2024,10/3/2024,First Class,Consumer,West,Furniture,Tables,378.74,8,0.1,0
+ORD-1143,5/15/2024,2/25/2024,First Class,Home Office,South,Technology,Phones,279.03,2,0.1,0
+ORD-1144,12/20/2024,7/6/2024,First Class,Consumer,South,Furniture,Chairs,172.61,5,0,17.26
+ORD-1145,5/8/2024,9/22/2024,Same Day,Consumer,West,Furniture,Chairs,192,6,0.1,0
+ORD-1146,4/6/2024,12/15/2024,Standard Class,Consumer,West,Technology,Phones,156.22,1,0,15.62
+ORD-1147,5/15/2024,7/26/2024,Standard Class,Consumer,South,Technology,Copiers,176.46,8,0.2,-17.65
+ORD-1148,6/21/2024,12/9/2024,Second Class,Corporate,West,Office Supplies,Storage,181.75,1,0.3,-36.35
+ORD-1149,7/7/2024,7/23/2024,First Class,Home Office,West,Furniture,Bookcases,189.27,5,0.2,-18.93
+ORD-1150,7/17/2024,11/6/2024,Standard Class,Corporate,South,Technology,Phones,237.65,1,0,23.76
+ORD-1151,4/20/2024,9/26/2024,Same Day,Corporate,East,Office Supplies,Paper,226.24,8,0.2,-22.62
+ORD-1152,4/29/2024,12/21/2024,Second Class,Home Office,South,Office Supplies,Paper,239.15,7,0.1,0
+ORD-1153,9/12/2024,4/9/2024,Standard Class,Consumer,Central,Furniture,Chairs,195.84,6,0,19.58
+ORD-1154,10/30/2024,10/10/2024,Same Day,Consumer,Central,Furniture,Chairs,185.53,9,0.2,-18.55
+ORD-1155,8/9/2024,12/1/2024,Second Class,Corporate,West,Technology,Accessories,51.16,4,0.1,0
+ORD-1156,11/24/2024,1/30/2024,First Class,Home Office,Central,Office Supplies,Paper,147.7,7,0.1,0
+ORD-1157,2/14/2024,4/11/2024,Standard Class,Corporate,Central,Furniture,Bookcases,274.14,1,0,27.41
+ORD-1158,2/9/2024,5/10/2024,Second Class,Corporate,South,Furniture,Bookcases,117.62,9,0.3,-23.52
+ORD-1159,11/26/2024,5/26/2024,Second Class,Corporate,East,Technology,Copiers,430.42,3,0.2,-43.04
+ORD-1160,12/1/2024,6/28/2024,Standard Class,Corporate,Central,Office Supplies,Binders,134.93,8,0.2,-13.49
+ORD-1161,11/15/2024,4/25/2024,Same Day,Consumer,East,Furniture,Bookcases,185.93,1,0.3,-37.19
+ORD-1162,6/25/2024,9/2/2024,First Class,Consumer,West,Technology,Copiers,276.65,9,0.2,-27.66
+ORD-1163,3/17/2024,12/3/2024,Same Day,Home Office,South,Furniture,Bookcases,106.02,6,0,10.6
+ORD-1164,2/4/2024,2/19/2024,Standard Class,Home Office,East,Office Supplies,Paper,79.02,7,0.3,-15.8
+ORD-1165,1/7/2024,4/2/2024,Same Day,Consumer,West,Technology,Accessories,132.49,6,0.3,-26.5
+ORD-1166,11/18/2024,1/29/2024,Standard Class,Corporate,West,Office Supplies,Binders,45.3,8,0.3,-9.06
+ORD-1167,8/26/2024,9/5/2024,Second Class,Corporate,Central,Technology,Accessories,252.9,5,0.3,-50.58
+ORD-1168,5/29/2024,3/12/2024,Same Day,Consumer,East,Technology,Accessories,238.05,3,0,23.81
+ORD-1169,9/21/2024,4/13/2024,Standard Class,Consumer,West,Office Supplies,Storage,161.89,5,0.2,-16.19
+ORD-1170,10/8/2024,3/6/2024,Same Day,Consumer,South,Office Supplies,Paper,496.43,7,0.1,0
+ORD-1171,5/25/2024,9/24/2024,Second Class,Corporate,South,Furniture,Bookcases,411.43,2,0.2,-41.14
+ORD-1172,9/11/2024,3/25/2024,Same Day,Corporate,Central,Technology,Phones,307.83,4,0.3,-61.57
+ORD-1173,2/12/2024,11/15/2024,Same Day,Home Office,West,Office Supplies,Paper,252.43,1,0.2,-25.24
+ORD-1174,12/4/2024,6/17/2024,Second Class,Consumer,East,Technology,Phones,416.31,9,0.2,-41.63
+ORD-1175,9/3/2024,4/4/2024,Standard Class,Corporate,South,Technology,Accessories,402.23,6,0,40.22
+ORD-1176,7/1/2024,11/11/2024,Standard Class,Home Office,East,Technology,Copiers,340.22,5,0.3,-68.04
+ORD-1177,11/18/2024,5/29/2024,Second Class,Home Office,Central,Technology,Phones,321.56,5,0.1,0
+ORD-1178,3/1/2024,8/15/2024,Same Day,Consumer,Central,Technology,Copiers,403.58,6,0.3,-80.72
+ORD-1179,4/2/2024,3/25/2024,Standard Class,Consumer,South,Technology,Phones,444.22,7,0,44.42
+ORD-1180,12/5/2024,6/4/2024,Same Day,Consumer,Central,Office Supplies,Storage,229.71,1,0.2,-22.97
+ORD-1181,7/3/2024,6/17/2024,Standard Class,Home Office,South,Furniture,Bookcases,344.99,6,0,34.5
+ORD-1182,8/8/2024,5/26/2024,Standard Class,Consumer,East,Furniture,Chairs,417.58,2,0,41.76
+ORD-1183,8/26/2024,3/2/2024,Standard Class,Corporate,Central,Technology,Phones,117.65,8,0.2,-11.76
+ORD-1184,8/27/2024,12/11/2024,Same Day,Home Office,East,Office Supplies,Binders,259.62,4,0.1,0
+ORD-1185,11/28/2024,8/13/2024,Standard Class,Home Office,South,Office Supplies,Paper,210.96,1,0.3,-42.19
+ORD-1186,6/7/2024,10/4/2024,First Class,Home Office,East,Office Supplies,Binders,136.41,4,0.3,-27.28
+ORD-1187,2/25/2024,4/19/2024,Second Class,Home Office,West,Office Supplies,Binders,491.07,1,0.3,-98.21
+ORD-1188,5/8/2024,2/25/2024,Same Day,Consumer,Central,Office Supplies,Paper,137.25,8,0.3,-27.45
+ORD-1189,9/11/2024,11/12/2024,First Class,Consumer,Central,Office Supplies,Storage,261.53,1,0.2,-26.15
+ORD-1190,12/26/2024,3/18/2024,Standard Class,Corporate,South,Office Supplies,Paper,219.65,4,0.3,-43.93
+ORD-1191,8/1/2024,12/29/2024,Standard Class,Home Office,West,Technology,Accessories,195.67,6,0.2,-19.57
+ORD-1192,12/4/2024,3/14/2024,First Class,Home Office,West,Furniture,Bookcases,329.64,8,0.1,0
+ORD-1193,10/28/2024,6/13/2024,First Class,Corporate,Central,Office Supplies,Binders,124.63,8,0.1,0
+ORD-1194,2/15/2024,1/9/2024,First Class,Corporate,West,Technology,Copiers,466.67,1,0.3,-93.33
+ORD-1195,10/15/2024,3/11/2024,Standard Class,Consumer,Central,Furniture,Bookcases,63.02,9,0.1,0
+ORD-1196,6/27/2024,4/1/2024,Standard Class,Corporate,East,Office Supplies,Paper,286.83,4,0.2,-28.68
+ORD-1197,1/26/2024,8/13/2024,Standard Class,Consumer,Central,Office Supplies,Storage,289.52,9,0.3,-57.9
+ORD-1198,1/21/2024,1/23/2024,Standard Class,Corporate,Central,Office Supplies,Binders,38.05,9,0.2,-3.8
+ORD-1199,2/8/2024,7/4/2024,Standard Class,Consumer,West,Office Supplies,Paper,361.4,1,0.1,0
+ORD-1200,5/20/2024,12/2/2024,First Class,Consumer,East,Office Supplies,Paper,384.82,6,0.1,0
+ORD-1201,3/22/2024,3/19/2024,Same Day,Home Office,West,Technology,Phones,499.29,6,0.2,-49.93
+ORD-1202,11/15/2024,3/5/2024,First Class,Consumer,East,Office Supplies,Binders,123.9,7,0.2,-12.39
+ORD-1203,8/22/2024,2/3/2024,Standard Class,Corporate,Central,Furniture,Chairs,306.56,7,0,30.66
+ORD-1204,12/13/2024,3/23/2024,Second Class,Home Office,West,Technology,Accessories,105.47,1,0.3,-21.09
+ORD-1205,6/8/2024,3/3/2024,Second Class,Home Office,Central,Furniture,Bookcases,271.31,1,0.2,-27.13
+ORD-1206,1/3/2024,12/27/2024,Standard Class,Consumer,South,Technology,Phones,310.5,3,0.2,-31.05
+ORD-1207,4/8/2024,10/23/2024,Same Day,Consumer,South,Office Supplies,Binders,272.89,2,0.3,-54.58
+ORD-1208,8/21/2024,8/14/2024,Same Day,Corporate,Central,Office Supplies,Binders,408.94,3,0.1,0
+ORD-1209,5/9/2024,11/27/2024,Second Class,Consumer,West,Technology,Phones,215.56,2,0.3,-43.11
+ORD-1210,2/19/2024,9/27/2024,Second Class,Corporate,South,Office Supplies,Binders,261.44,1,0,26.14
+ORD-1211,6/29/2024,11/20/2024,Standard Class,Home Office,Central,Furniture,Chairs,233.03,1,0.1,0
+ORD-1212,3/9/2024,5/1/2024,Second Class,Home Office,South,Furniture,Tables,280.59,3,0.1,0
+ORD-1213,6/15/2024,5/7/2024,First Class,Home Office,East,Furniture,Bookcases,489.64,6,0.1,0
+ORD-1214,7/24/2024,4/9/2024,Same Day,Corporate,Central,Technology,Phones,351.69,2,0.1,0
+ORD-1215,8/10/2024,9/26/2024,Second Class,Home Office,South,Furniture,Tables,116.81,6,0.2,-11.68
+ORD-1216,10/22/2024,11/23/2024,First Class,Corporate,East,Office Supplies,Storage,484.46,7,0.1,0
+ORD-1217,6/18/2024,7/4/2024,Standard Class,Corporate,East,Furniture,Tables,303.46,5,0.3,-60.69
+ORD-1218,1/31/2024,3/18/2024,First Class,Consumer,Central,Office Supplies,Paper,157.78,7,0.2,-15.78
+ORD-1219,1/25/2024,8/30/2024,First Class,Consumer,Central,Technology,Accessories,191,5,0.3,-38.2
+ORD-1220,8/26/2024,1/22/2024,Same Day,Corporate,South,Furniture,Chairs,108.95,8,0,10.9
+ORD-1221,9/9/2024,12/16/2024,Standard Class,Consumer,Central,Furniture,Bookcases,351.67,6,0.3,-70.33
+ORD-1222,7/31/2024,12/11/2024,Second Class,Corporate,West,Furniture,Tables,256.51,8,0,25.65
+ORD-1223,6/5/2024,8/30/2024,Same Day,Home Office,West,Office Supplies,Binders,495.14,9,0.1,0
+ORD-1224,4/10/2024,2/22/2024,Standard Class,Consumer,West,Office Supplies,Binders,446.5,9,0.3,-89.3
+ORD-1225,3/19/2024,3/2/2024,First Class,Home Office,East,Technology,Accessories,322.33,8,0.2,-32.23
+ORD-1226,5/23/2024,12/14/2024,Second Class,Home Office,Central,Office Supplies,Binders,213,6,0,21.3
+ORD-1227,6/14/2024,1/26/2024,Same Day,Consumer,Central,Furniture,Bookcases,178.48,1,0.3,-35.7
+ORD-1228,2/24/2024,5/7/2024,Same Day,Home Office,West,Furniture,Chairs,231.15,4,0,23.12
+ORD-1229,7/12/2024,9/13/2024,Standard Class,Consumer,West,Technology,Phones,341.43,7,0.3,-68.29
+ORD-1230,1/6/2024,9/27/2024,Same Day,Home Office,South,Technology,Accessories,249.35,8,0.1,0
+ORD-1231,1/25/2024,4/25/2024,Second Class,Home Office,East,Furniture,Chairs,155.29,8,0.2,-15.53
+ORD-1232,12/27/2024,7/30/2024,Standard Class,Consumer,South,Office Supplies,Binders,56.3,9,0.1,0
+ORD-1233,11/6/2024,8/12/2024,First Class,Consumer,East,Office Supplies,Paper,246.58,3,0,24.66
+ORD-1234,9/6/2024,8/10/2024,Second Class,Home Office,West,Office Supplies,Paper,61.88,1,0.2,-6.19
+ORD-1235,3/7/2024,9/6/2024,Second Class,Home Office,South,Technology,Accessories,481.55,6,0,48.16
+ORD-1236,5/15/2024,8/26/2024,Second Class,Corporate,Central,Furniture,Tables,381.6,5,0.1,0
+ORD-1237,5/4/2024,3/8/2024,Second Class,Corporate,South,Office Supplies,Binders,99.71,3,0.1,0
+ORD-1238,12/27/2024,1/25/2024,Same Day,Home Office,Central,Office Supplies,Storage,60.99,9,0,6.1
+ORD-1239,1/22/2024,5/23/2024,Same Day,Consumer,Central,Office Supplies,Binders,340.56,7,0.3,-68.11
+ORD-1240,5/9/2024,7/10/2024,First Class,Home Office,South,Furniture,Chairs,297.52,2,0,29.75
+ORD-1241,8/9/2024,5/15/2024,First Class,Consumer,South,Office Supplies,Storage,285.11,5,0.3,-57.02
+ORD-1242,11/9/2024,7/19/2024,Second Class,Home Office,South,Office Supplies,Paper,23.81,3,0.1,0
+ORD-1243,2/5/2024,5/12/2024,Standard Class,Consumer,West,Furniture,Bookcases,430.03,1,0.1,0
+ORD-1244,8/4/2024,5/8/2024,Same Day,Home Office,East,Technology,Copiers,131.1,7,0.3,-26.22
+ORD-1245,4/23/2024,8/13/2024,First Class,Consumer,East,Furniture,Tables,143.9,4,0,14.39
+ORD-1246,12/14/2024,8/30/2024,Standard Class,Home Office,Central,Office Supplies,Binders,298.04,3,0,29.8
+ORD-1247,11/3/2024,8/17/2024,First Class,Home Office,South,Office Supplies,Paper,135.25,3,0.2,-13.52
+ORD-1248,8/13/2024,3/28/2024,Second Class,Consumer,East,Furniture,Chairs,322.25,6,0.1,0
+ORD-1249,3/4/2024,7/27/2024,Same Day,Consumer,West,Office Supplies,Paper,135.95,7,0.3,-27.19
+ORD-1250,6/15/2024,7/5/2024,Same Day,Corporate,South,Technology,Phones,119.4,7,0,11.94
+ORD-1251,6/11/2024,5/7/2024,First Class,Corporate,West,Technology,Accessories,448.35,6,0,44.84
+ORD-1252,4/29/2024,7/30/2024,First Class,Corporate,Central,Office Supplies,Paper,197.54,9,0,19.75
+ORD-1253,2/26/2024,2/1/2024,Standard Class,Consumer,West,Office Supplies,Binders,403.84,5,0,40.38
+ORD-1254,2/7/2024,7/29/2024,First Class,Consumer,West,Technology,Phones,135.27,9,0.3,-27.05
+ORD-1255,10/22/2024,8/21/2024,Same Day,Home Office,East,Furniture,Chairs,498.07,9,0.1,0
+ORD-1256,1/25/2024,10/8/2024,Second Class,Home Office,Central,Office Supplies,Binders,481.71,5,0.3,-96.34
+ORD-1257,11/29/2024,2/8/2024,Second Class,Home Office,Central,Technology,Copiers,161.51,4,0,16.15
+ORD-1258,11/29/2024,6/3/2024,Same Day,Corporate,Central,Furniture,Tables,367.08,8,0.1,0
+ORD-1259,6/3/2024,2/16/2024,Second Class,Home Office,West,Office Supplies,Storage,257.9,2,0,25.79
+ORD-1260,10/4/2024,11/19/2024,Second Class,Consumer,West,Technology,Copiers,209.77,8,0.2,-20.98
+ORD-1261,8/16/2024,1/21/2024,Same Day,Corporate,Central,Furniture,Chairs,115.14,8,0.2,-11.51
+ORD-1262,10/8/2024,4/13/2024,Second Class,Corporate,South,Office Supplies,Paper,337.23,5,0.3,-67.45
+ORD-1263,4/24/2024,11/8/2024,Second Class,Home Office,West,Furniture,Chairs,251.43,9,0.3,-50.29
+ORD-1264,10/10/2024,6/9/2024,Second Class,Consumer,Central,Office Supplies,Binders,294.62,6,0.1,0
+ORD-1265,8/24/2024,8/5/2024,Standard Class,Corporate,East,Office Supplies,Binders,28.64,4,0.2,-2.86
+ORD-1266,1/15/2024,6/16/2024,Same Day,Corporate,South,Furniture,Bookcases,140.37,1,0.2,-14.04
+ORD-1267,5/5/2024,1/20/2024,First Class,Corporate,East,Office Supplies,Binders,162.05,9,0.2,-16.21
+ORD-1268,6/5/2024,8/24/2024,Standard Class,Home Office,South,Office Supplies,Storage,136.64,2,0.3,-27.33
+ORD-1269,4/24/2024,10/12/2024,Same Day,Corporate,East,Technology,Accessories,480.99,1,0.2,-48.1
+ORD-1270,6/30/2024,6/25/2024,Standard Class,Home Office,South,Office Supplies,Paper,136.61,6,0,13.66
+ORD-1271,12/19/2024,8/30/2024,First Class,Consumer,West,Office Supplies,Paper,395.05,1,0.3,-79.01
+ORD-1272,11/2/2024,6/25/2024,Same Day,Consumer,South,Furniture,Chairs,335.61,9,0.2,-33.56
+ORD-1273,9/28/2024,4/12/2024,Same Day,Consumer,East,Office Supplies,Binders,76.15,3,0.2,-7.62
+ORD-1274,4/18/2024,4/30/2024,First Class,Home Office,South,Furniture,Tables,208.91,3,0.1,0
+ORD-1275,11/21/2024,9/21/2024,Standard Class,Corporate,East,Furniture,Chairs,41.19,4,0.3,-8.24
+ORD-1276,11/4/2024,10/20/2024,Same Day,Home Office,West,Furniture,Chairs,243.83,2,0.3,-48.77
+ORD-1277,5/11/2024,5/22/2024,Same Day,Home Office,East,Office Supplies,Storage,336.11,9,0.2,-33.61
+ORD-1278,12/29/2024,11/12/2024,Same Day,Home Office,Central,Furniture,Bookcases,426.43,3,0.2,-42.64
+ORD-1279,9/7/2024,11/19/2024,Second Class,Home Office,East,Office Supplies,Binders,461.98,8,0,46.2
+ORD-1280,4/2/2024,10/22/2024,Second Class,Home Office,South,Office Supplies,Storage,327.75,6,0.2,-32.78
+ORD-1281,9/28/2024,5/2/2024,Second Class,Home Office,East,Office Supplies,Paper,264.33,8,0.3,-52.87
+ORD-1282,7/5/2024,5/20/2024,Same Day,Corporate,West,Office Supplies,Binders,414.45,2,0.1,0
+ORD-1283,12/9/2024,4/13/2024,Second Class,Home Office,East,Technology,Accessories,178.77,8,0,17.88
+ORD-1284,6/7/2024,6/14/2024,Second Class,Corporate,South,Furniture,Tables,99.25,9,0.2,-9.93
+ORD-1285,5/3/2024,8/20/2024,Same Day,Corporate,West,Technology,Copiers,149.09,5,0,14.91
+ORD-1286,12/18/2024,8/3/2024,Second Class,Consumer,East,Office Supplies,Paper,317.31,7,0.2,-31.73
+ORD-1287,6/22/2024,3/23/2024,First Class,Home Office,West,Technology,Phones,156.68,3,0,15.67
+ORD-1288,10/22/2024,10/7/2024,Standard Class,Consumer,West,Office Supplies,Paper,403.34,9,0.1,0
+ORD-1289,10/30/2024,9/13/2024,Same Day,Consumer,East,Furniture,Tables,299.07,1,0.2,-29.91
+ORD-1290,10/23/2024,9/25/2024,Same Day,Consumer,South,Furniture,Tables,353.74,2,0.1,0
+ORD-1291,7/6/2024,8/6/2024,Standard Class,Corporate,West,Furniture,Bookcases,84.58,8,0.2,-8.46
+ORD-1292,1/17/2024,7/6/2024,First Class,Consumer,East,Office Supplies,Storage,92.52,1,0,9.25
+ORD-1293,9/19/2024,7/23/2024,First Class,Corporate,Central,Office Supplies,Binders,32.58,4,0,3.26
+ORD-1294,4/27/2024,12/25/2024,Same Day,Home Office,Central,Technology,Phones,344.86,3,0,34.49
+ORD-1295,4/27/2024,8/31/2024,Standard Class,Consumer,South,Office Supplies,Paper,303.99,5,0,30.4
+ORD-1296,4/22/2024,2/3/2024,First Class,Consumer,Central,Furniture,Tables,416.12,7,0.1,0
+ORD-1297,4/10/2024,8/12/2024,First Class,Consumer,Central,Office Supplies,Paper,366.4,6,0,36.64
+ORD-1298,8/15/2024,6/8/2024,First Class,Consumer,Central,Office Supplies,Paper,259.01,4,0.2,-25.9
+ORD-1299,12/29/2024,11/26/2024,Same Day,Consumer,East,Furniture,Chairs,266.18,7,0.3,-53.24
+ORD-1300,3/2/2024,12/4/2024,First Class,Corporate,South,Technology,Phones,404.64,4,0.1,0
+ORD-1301,3/17/2024,5/1/2024,Standard Class,Home Office,South,Furniture,Tables,108.29,6,0.3,-21.66
+ORD-1302,3/7/2024,3/19/2024,Second Class,Corporate,Central,Furniture,Bookcases,102.9,4,0.3,-20.58
+ORD-1303,6/15/2024,12/29/2024,Second Class,Home Office,South,Technology,Copiers,306,5,0.2,-30.6
+ORD-1304,12/10/2024,3/5/2024,Second Class,Consumer,Central,Office Supplies,Binders,129.56,4,0.1,0
+ORD-1305,8/16/2024,10/21/2024,Second Class,Corporate,Central,Technology,Phones,344.65,1,0.1,0
+ORD-1306,7/16/2024,11/5/2024,Same Day,Corporate,East,Office Supplies,Binders,69.32,2,0.3,-13.86
+ORD-1307,5/2/2024,1/11/2024,Same Day,Home Office,South,Furniture,Tables,191.15,5,0.3,-38.23
+ORD-1308,3/13/2024,9/8/2024,Same Day,Home Office,East,Office Supplies,Binders,141.77,6,0.1,0
+ORD-1309,8/3/2024,1/10/2024,Same Day,Corporate,Central,Technology,Phones,404.31,9,0,40.43
+ORD-1310,3/27/2024,7/29/2024,First Class,Consumer,South,Technology,Phones,431.5,8,0.3,-86.3
+ORD-1311,8/23/2024,4/10/2024,Standard Class,Home Office,Central,Technology,Copiers,348.85,3,0.1,0
+ORD-1312,1/9/2024,5/31/2024,Second Class,Home Office,South,Technology,Phones,372.02,1,0.2,-37.2
+ORD-1313,3/1/2024,12/10/2024,Second Class,Home Office,East,Office Supplies,Paper,154.49,7,0.1,0
+ORD-1314,9/9/2024,8/23/2024,Same Day,Consumer,East,Office Supplies,Binders,135.29,6,0.3,-27.06
+ORD-1315,11/10/2024,8/19/2024,Standard Class,Corporate,South,Office Supplies,Binders,223.28,5,0.1,0
+ORD-1316,12/1/2024,12/30/2024,Standard Class,Consumer,Central,Furniture,Chairs,113.37,6,0.2,-11.34
+ORD-1317,8/20/2024,6/24/2024,Second Class,Corporate,West,Technology,Copiers,279.41,3,0.1,0
+ORD-1318,10/16/2024,1/16/2024,Same Day,Corporate,East,Office Supplies,Binders,284.04,3,0.1,0
+ORD-1319,4/14/2024,8/6/2024,First Class,Corporate,East,Furniture,Bookcases,134.72,8,0,13.47
+ORD-1320,3/5/2024,3/14/2024,Second Class,Corporate,South,Furniture,Chairs,102.64,1,0.2,-10.26
+ORD-1321,2/2/2024,2/2/2024,Second Class,Home Office,South,Office Supplies,Storage,494.94,4,0.3,-98.99
+ORD-1322,8/7/2024,1/12/2024,Second Class,Home Office,Central,Office Supplies,Binders,254.84,4,0,25.48
+ORD-1323,10/9/2024,1/3/2024,First Class,Corporate,Central,Furniture,Chairs,321.66,1,0.3,-64.33
+ORD-1324,9/28/2024,8/8/2024,Same Day,Corporate,West,Technology,Accessories,134.68,5,0,13.47
+ORD-1325,10/1/2024,4/22/2024,Same Day,Home Office,East,Furniture,Bookcases,266.64,8,0.3,-53.33
+ORD-1326,12/13/2024,5/22/2024,Same Day,Consumer,East,Office Supplies,Paper,231.85,5,0,23.18
+ORD-1327,10/16/2024,3/15/2024,Standard Class,Corporate,East,Office Supplies,Paper,73.07,2,0.1,0
+ORD-1328,5/8/2024,4/23/2024,Second Class,Consumer,East,Furniture,Tables,22.34,2,0,2.23
+ORD-1329,7/14/2024,4/17/2024,First Class,Corporate,South,Technology,Phones,467.44,6,0,46.74
+ORD-1330,4/28/2024,9/17/2024,First Class,Consumer,Central,Office Supplies,Paper,345.9,3,0,34.59
+ORD-1331,2/28/2024,7/2/2024,Standard Class,Home Office,East,Technology,Copiers,453.22,9,0.3,-90.64
+ORD-1332,11/7/2024,9/19/2024,Standard Class,Corporate,East,Office Supplies,Storage,218.57,1,0.1,0
+ORD-1333,1/25/2024,4/20/2024,Second Class,Home Office,East,Office Supplies,Storage,463.09,8,0,46.31
+ORD-1334,12/1/2024,10/27/2024,First Class,Home Office,South,Technology,Accessories,272.71,4,0.2,-27.27
+ORD-1335,8/3/2024,4/2/2024,First Class,Home Office,West,Furniture,Bookcases,432.19,2,0.3,-86.44
+ORD-1336,2/26/2024,4/15/2024,Same Day,Corporate,Central,Office Supplies,Binders,334.18,3,0,33.42
+ORD-1337,6/5/2024,9/19/2024,Standard Class,Consumer,South,Office Supplies,Paper,52.18,7,0.1,0
+ORD-1338,4/13/2024,5/23/2024,Same Day,Consumer,East,Furniture,Tables,288.25,1,0.3,-57.65
+ORD-1339,3/4/2024,3/1/2024,Second Class,Corporate,Central,Furniture,Bookcases,223.72,6,0.1,0
+ORD-1340,1/13/2024,7/3/2024,Second Class,Consumer,South,Furniture,Chairs,280.94,2,0.2,-28.09
+ORD-1341,6/19/2024,2/5/2024,First Class,Home Office,West,Furniture,Chairs,178.64,6,0.2,-17.86
+ORD-1342,6/13/2024,8/11/2024,Same Day,Corporate,Central,Office Supplies,Storage,377.52,5,0.1,0
+ORD-1343,4/1/2024,7/20/2024,Standard Class,Corporate,West,Office Supplies,Binders,392.41,3,0.3,-78.48
+ORD-1344,10/17/2024,9/3/2024,Standard Class,Home Office,South,Office Supplies,Paper,354.5,7,0.2,-35.45
+ORD-1345,2/28/2024,6/22/2024,Second Class,Home Office,West,Technology,Accessories,357.11,8,0.2,-35.71
+ORD-1346,6/2/2024,2/17/2024,Standard Class,Consumer,South,Furniture,Bookcases,106.86,3,0.1,0
+ORD-1347,3/24/2024,11/20/2024,Same Day,Home Office,South,Office Supplies,Paper,418.7,9,0.1,0
+ORD-1348,5/28/2024,3/13/2024,First Class,Home Office,East,Technology,Copiers,362.12,3,0.3,-72.42
+ORD-1349,7/7/2024,7/26/2024,Standard Class,Home Office,Central,Furniture,Bookcases,293.32,1,0.1,0
+ORD-1350,3/16/2024,3/14/2024,Same Day,Corporate,West,Technology,Accessories,366.61,3,0.3,-73.32
+ORD-1351,5/6/2024,9/10/2024,Standard Class,Consumer,Central,Technology,Copiers,313.56,2,0.3,-62.71
+ORD-1352,3/1/2024,11/29/2024,Second Class,Corporate,Central,Office Supplies,Binders,153.68,3,0,15.37
+ORD-1353,2/26/2024,5/2/2024,Standard Class,Consumer,South,Office Supplies,Binders,295.24,2,0.1,0
+ORD-1354,6/22/2024,3/27/2024,First Class,Corporate,South,Office Supplies,Storage,148.96,2,0,14.9
+ORD-1355,11/10/2024,5/3/2024,Same Day,Consumer,West,Office Supplies,Storage,116.67,3,0.3,-23.33
+ORD-1356,7/3/2024,3/27/2024,Same Day,Consumer,Central,Office Supplies,Paper,113.4,7,0,11.34
+ORD-1357,4/17/2024,9/11/2024,First Class,Home Office,West,Technology,Phones,217.32,3,0,21.73
+ORD-1358,9/26/2024,10/18/2024,Second Class,Corporate,West,Furniture,Tables,47.64,9,0.3,-9.53
+ORD-1359,3/12/2024,6/30/2024,Same Day,Consumer,West,Furniture,Bookcases,434.97,7,0.2,-43.5
+ORD-1360,6/1/2024,6/20/2024,Second Class,Home Office,West,Technology,Accessories,127.15,6,0.3,-25.43
+ORD-1361,2/1/2024,12/2/2024,First Class,Consumer,South,Office Supplies,Paper,41.68,3,0.2,-4.17
+ORD-1362,8/10/2024,3/16/2024,Second Class,Consumer,Central,Technology,Copiers,199.54,4,0.2,-19.95
+ORD-1363,3/19/2024,2/1/2024,Same Day,Corporate,South,Office Supplies,Binders,308.01,7,0.3,-61.6
+ORD-1364,8/2/2024,2/16/2024,Standard Class,Home Office,East,Technology,Accessories,424.46,9,0.2,-42.45
+ORD-1365,2/5/2024,1/8/2024,First Class,Corporate,Central,Furniture,Bookcases,402.8,4,0.1,0
+ORD-1366,3/25/2024,10/31/2024,Standard Class,Home Office,East,Technology,Accessories,336.79,9,0,33.68
+ORD-1367,5/5/2024,9/7/2024,Same Day,Home Office,Central,Technology,Phones,419.18,6,0.3,-83.84
+ORD-1368,1/19/2024,6/22/2024,Second Class,Consumer,South,Technology,Copiers,418.76,2,0.2,-41.88
+ORD-1369,3/25/2024,1/12/2024,First Class,Home Office,West,Furniture,Bookcases,480.37,1,0.3,-96.07
+ORD-1370,6/7/2024,11/10/2024,Second Class,Corporate,East,Technology,Accessories,164.47,7,0,16.45
+ORD-1371,12/26/2024,11/19/2024,Same Day,Home Office,South,Office Supplies,Storage,412.16,1,0.2,-41.22
+ORD-1372,9/3/2024,3/2/2024,Second Class,Consumer,West,Technology,Copiers,106.75,1,0,10.68
+ORD-1373,9/8/2024,10/21/2024,First Class,Consumer,Central,Technology,Copiers,460.28,7,0.1,0
+ORD-1374,7/14/2024,11/29/2024,Standard Class,Home Office,West,Office Supplies,Binders,47.63,6,0.1,0
+ORD-1375,7/4/2024,2/15/2024,Second Class,Home Office,South,Office Supplies,Binders,323.84,7,0,32.38
+ORD-1376,4/24/2024,1/5/2024,Standard Class,Consumer,South,Office Supplies,Storage,305.97,8,0.2,-30.6
+ORD-1377,4/15/2024,10/1/2024,First Class,Corporate,South,Technology,Phones,286.45,3,0.2,-28.64
+ORD-1378,7/16/2024,6/6/2024,Second Class,Consumer,Central,Furniture,Chairs,477.1,6,0,47.71
+ORD-1379,1/21/2024,1/14/2024,Same Day,Home Office,Central,Technology,Accessories,374.39,6,0.1,0
+ORD-1380,12/3/2024,3/17/2024,First Class,Consumer,Central,Technology,Accessories,213.01,7,0,21.3
+ORD-1381,10/30/2024,4/14/2024,Same Day,Home Office,West,Office Supplies,Paper,378.69,2,0.2,-37.87
+ORD-1382,10/3/2024,11/13/2024,Same Day,Consumer,South,Office Supplies,Paper,163.11,6,0,16.31
+ORD-1383,9/22/2024,3/18/2024,Same Day,Corporate,South,Office Supplies,Storage,185.6,4,0.1,0
+ORD-1384,12/7/2024,3/17/2024,Second Class,Consumer,East,Technology,Accessories,402.1,5,0,40.21
+ORD-1385,6/13/2024,6/22/2024,First Class,Home Office,South,Technology,Accessories,431.27,7,0.3,-86.25
+ORD-1386,12/7/2024,6/9/2024,First Class,Home Office,East,Furniture,Chairs,364.2,7,0.1,0
+ORD-1387,6/7/2024,7/16/2024,Standard Class,Home Office,West,Office Supplies,Storage,64.71,2,0.3,-12.94
+ORD-1388,4/19/2024,8/9/2024,Second Class,Corporate,East,Office Supplies,Paper,334.15,7,0,33.42
+ORD-1389,8/20/2024,6/18/2024,Second Class,Home Office,Central,Furniture,Tables,307.54,6,0.2,-30.75
+ORD-1390,9/10/2024,2/26/2024,Second Class,Consumer,West,Office Supplies,Binders,109.11,9,0,10.91
+ORD-1391,10/11/2024,7/3/2024,First Class,Consumer,Central,Technology,Phones,399.21,7,0.1,0
+ORD-1392,5/9/2024,2/3/2024,Standard Class,Corporate,East,Technology,Phones,326.75,3,0.1,0
+ORD-1393,10/3/2024,5/12/2024,Same Day,Corporate,Central,Office Supplies,Storage,440.59,2,0.3,-88.12
+ORD-1394,10/28/2024,5/14/2024,Standard Class,Corporate,South,Office Supplies,Binders,472.7,8,0.1,0
+ORD-1395,2/26/2024,12/30/2024,Standard Class,Corporate,South,Furniture,Chairs,61.97,4,0.1,0
+ORD-1396,2/26/2024,10/5/2024,Standard Class,Consumer,Central,Furniture,Tables,440.25,1,0.3,-88.05
+ORD-1397,11/13/2024,11/18/2024,First Class,Home Office,Central,Furniture,Bookcases,244.92,1,0.3,-48.98
+ORD-1398,10/17/2024,1/26/2024,First Class,Corporate,South,Office Supplies,Paper,128.59,9,0.1,0
+ORD-1399,8/12/2024,3/20/2024,Same Day,Home Office,East,Furniture,Chairs,117.13,6,0.3,-23.43
+ORD-1400,10/27/2024,12/15/2024,Second Class,Corporate,Central,Technology,Copiers,471.61,1,0.3,-94.32
+ORD-1401,10/6/2024,9/9/2024,First Class,Corporate,Central,Technology,Phones,441.1,4,0.3,-88.22
+ORD-1402,2/7/2024,2/21/2024,Second Class,Consumer,South,Furniture,Tables,252.96,1,0.1,0
+ORD-1403,1/24/2024,10/19/2024,Second Class,Corporate,East,Office Supplies,Storage,491.23,2,0,49.12
+ORD-1404,2/13/2024,6/23/2024,Second Class,Corporate,Central,Office Supplies,Storage,355.76,5,0.1,0
+ORD-1405,9/29/2024,12/23/2024,Second Class,Home Office,East,Furniture,Tables,132.37,8,0.2,-13.24
+ORD-1406,10/2/2024,9/3/2024,Same Day,Corporate,East,Office Supplies,Binders,347.68,5,0,34.77
+ORD-1407,12/13/2024,11/16/2024,Same Day,Home Office,West,Furniture,Tables,343.81,6,0.1,0
+ORD-1408,12/3/2024,8/13/2024,Second Class,Corporate,Central,Office Supplies,Storage,152.09,4,0.2,-15.21
+ORD-1409,4/27/2024,12/1/2024,Second Class,Consumer,South,Furniture,Tables,328.81,1,0.3,-65.76
+ORD-1410,9/10/2024,11/9/2024,Second Class,Corporate,South,Technology,Accessories,127.62,3,0,12.76
+ORD-1411,8/26/2024,7/9/2024,Second Class,Consumer,East,Office Supplies,Storage,122.36,6,0.1,0
+ORD-1412,10/9/2024,2/22/2024,Second Class,Home Office,West,Technology,Phones,135.6,1,0,13.56
+ORD-1413,12/6/2024,2/15/2024,Standard Class,Corporate,East,Furniture,Tables,432.9,6,0.2,-43.29
+ORD-1414,11/3/2024,1/24/2024,Second Class,Home Office,West,Technology,Copiers,197.4,2,0.1,0
+ORD-1415,11/8/2024,12/20/2024,First Class,Home Office,East,Office Supplies,Paper,446.09,5,0.2,-44.61
+ORD-1416,5/11/2024,12/8/2024,First Class,Corporate,East,Technology,Accessories,287.17,3,0.3,-57.43
+ORD-1417,7/8/2024,7/4/2024,First Class,Home Office,South,Technology,Phones,108.44,9,0.3,-21.69
+ORD-1418,11/27/2024,11/21/2024,First Class,Corporate,West,Office Supplies,Paper,134.63,3,0.2,-13.46
+ORD-1419,9/19/2024,4/28/2024,Second Class,Corporate,West,Office Supplies,Paper,102.81,4,0,10.28
+ORD-1420,8/23/2024,4/10/2024,Second Class,Consumer,West,Technology,Accessories,285.78,7,0.2,-28.58
+ORD-1421,7/10/2024,5/20/2024,Second Class,Home Office,Central,Furniture,Bookcases,23.52,8,0.1,0
+ORD-1422,7/20/2024,5/17/2024,Standard Class,Consumer,Central,Office Supplies,Paper,193.66,3,0.1,0
+ORD-1423,10/12/2024,5/22/2024,First Class,Corporate,East,Office Supplies,Binders,205.94,4,0.2,-20.59
+ORD-1424,9/24/2024,4/21/2024,Same Day,Consumer,South,Technology,Accessories,32.26,4,0,3.23
+ORD-1425,10/22/2024,3/25/2024,First Class,Corporate,Central,Office Supplies,Binders,455.39,8,0,45.54
+ORD-1426,8/4/2024,2/1/2024,Second Class,Home Office,Central,Technology,Phones,165.52,8,0,16.55
+ORD-1427,11/2/2024,4/19/2024,Second Class,Consumer,East,Office Supplies,Binders,216,1,0.1,0
+ORD-1428,4/28/2024,4/20/2024,First Class,Corporate,West,Technology,Copiers,82.68,7,0.2,-8.27
+ORD-1429,1/23/2024,8/19/2024,Second Class,Consumer,South,Office Supplies,Binders,414.28,4,0.2,-41.43
+ORD-1430,11/22/2024,11/30/2024,Second Class,Corporate,South,Technology,Accessories,349.14,4,0.3,-69.83
+ORD-1431,9/20/2024,4/23/2024,First Class,Home Office,East,Furniture,Tables,227.41,1,0.1,0
+ORD-1432,8/5/2024,1/7/2024,Second Class,Corporate,South,Furniture,Chairs,43.96,2,0,4.4
+ORD-1433,6/15/2024,7/4/2024,First Class,Consumer,East,Furniture,Tables,59.43,3,0,5.94
+ORD-1434,6/24/2024,4/23/2024,First Class,Consumer,Central,Furniture,Bookcases,176.26,6,0.2,-17.63
+ORD-1435,7/24/2024,5/2/2024,First Class,Home Office,West,Technology,Copiers,204.76,9,0.1,0
+ORD-1436,12/10/2024,2/1/2024,Same Day,Consumer,South,Furniture,Bookcases,337.2,8,0,33.72
+ORD-1437,1/14/2024,3/10/2024,Second Class,Corporate,South,Furniture,Bookcases,274.24,9,0,27.42
+ORD-1438,3/27/2024,3/7/2024,First Class,Home Office,South,Furniture,Tables,326.69,4,0.1,0
+ORD-1439,7/10/2024,8/30/2024,Standard Class,Home Office,West,Technology,Copiers,171.17,9,0.1,0
+ORD-1440,3/10/2024,6/20/2024,Second Class,Home Office,South,Office Supplies,Binders,379.59,2,0.2,-37.96
+ORD-1441,10/9/2024,7/7/2024,Second Class,Home Office,East,Furniture,Tables,301.49,3,0.3,-60.3
+ORD-1442,10/30/2024,7/8/2024,Second Class,Consumer,East,Office Supplies,Binders,273.96,4,0.2,-27.4
+ORD-1443,4/18/2024,5/12/2024,Standard Class,Corporate,West,Office Supplies,Paper,330.12,4,0.1,0
+ORD-1444,4/17/2024,12/19/2024,Same Day,Home Office,West,Technology,Accessories,429.43,7,0,42.94
+ORD-1445,10/31/2024,9/22/2024,First Class,Home Office,West,Technology,Phones,368.77,4,0.2,-36.88
+ORD-1446,9/11/2024,3/15/2024,Second Class,Corporate,South,Furniture,Chairs,450.03,4,0,45
+ORD-1447,4/28/2024,6/20/2024,Standard Class,Corporate,West,Office Supplies,Paper,453.62,5,0.1,0
+ORD-1448,9/4/2024,7/18/2024,Standard Class,Corporate,West,Furniture,Bookcases,225.6,6,0.2,-22.56
+ORD-1449,11/12/2024,5/14/2024,Same Day,Corporate,South,Technology,Phones,227.49,7,0.3,-45.5
+ORD-1450,9/22/2024,3/8/2024,Second Class,Home Office,Central,Furniture,Bookcases,110.23,8,0.1,0
+ORD-1451,9/2/2024,12/8/2024,Second Class,Corporate,West,Furniture,Bookcases,425.49,1,0.2,-42.55
+ORD-1452,8/29/2024,7/17/2024,Same Day,Consumer,West,Furniture,Bookcases,356.99,9,0.1,0
+ORD-1453,6/21/2024,7/6/2024,Standard Class,Corporate,West,Furniture,Bookcases,242.82,3,0,24.28
+ORD-1454,4/27/2024,1/24/2024,First Class,Corporate,East,Furniture,Chairs,127.94,9,0.2,-12.79
+ORD-1455,10/9/2024,2/5/2024,Second Class,Consumer,Central,Technology,Copiers,382.8,5,0.2,-38.28
+ORD-1456,12/8/2024,10/1/2024,Second Class,Corporate,Central,Technology,Accessories,417.54,1,0.2,-41.75
+ORD-1457,11/29/2024,11/12/2024,First Class,Home Office,South,Technology,Copiers,124.45,6,0.3,-24.89
+ORD-1458,2/21/2024,3/24/2024,Standard Class,Corporate,East,Technology,Phones,230.21,2,0.3,-46.04
+ORD-1459,11/11/2024,6/7/2024,Second Class,Consumer,Central,Furniture,Tables,87.67,9,0.1,0
+ORD-1460,11/27/2024,6/10/2024,Second Class,Corporate,East,Office Supplies,Paper,369.18,7,0,36.92
+ORD-1461,3/26/2024,5/2/2024,First Class,Consumer,Central,Technology,Phones,61.67,9,0.3,-12.33
+ORD-1462,3/4/2024,7/11/2024,Second Class,Home Office,South,Furniture,Tables,443.14,3,0.1,0
+ORD-1463,9/22/2024,5/31/2024,Standard Class,Consumer,East,Furniture,Chairs,456.1,1,0.2,-45.61
+ORD-1464,6/9/2024,5/20/2024,First Class,Corporate,East,Technology,Copiers,175.23,4,0.2,-17.52
+ORD-1465,5/14/2024,12/9/2024,First Class,Home Office,South,Technology,Phones,343.94,4,0,34.39
+ORD-1466,2/23/2024,7/8/2024,Standard Class,Home Office,Central,Office Supplies,Storage,166.71,4,0.2,-16.67
+ORD-1467,4/15/2024,3/6/2024,Second Class,Consumer,East,Technology,Phones,496.84,2,0,49.68
+ORD-1468,12/4/2024,7/10/2024,First Class,Home Office,Central,Office Supplies,Binders,228.68,4,0,22.87
+ORD-1469,9/26/2024,11/12/2024,First Class,Home Office,South,Furniture,Tables,285,7,0.3,-57
+ORD-1470,9/12/2024,9/1/2024,Same Day,Corporate,South,Furniture,Bookcases,165.36,6,0.2,-16.54
+ORD-1471,5/25/2024,2/23/2024,First Class,Home Office,West,Technology,Phones,68.7,2,0.2,-6.87
+ORD-1472,4/20/2024,7/9/2024,First Class,Corporate,Central,Furniture,Bookcases,23.27,1,0,2.33
+ORD-1473,5/29/2024,9/22/2024,First Class,Home Office,Central,Office Supplies,Paper,149.44,9,0.2,-14.94
+ORD-1474,4/30/2024,4/16/2024,Standard Class,Home Office,West,Technology,Phones,470.95,6,0.1,0
+ORD-1475,8/6/2024,10/22/2024,First Class,Home Office,West,Furniture,Tables,409.82,6,0.1,0
+ORD-1476,8/13/2024,5/27/2024,Second Class,Home Office,West,Technology,Phones,482.56,3,0.1,0
+ORD-1477,10/23/2024,6/1/2024,Same Day,Home Office,Central,Office Supplies,Paper,475.76,3,0.1,0
+ORD-1478,2/23/2024,3/12/2024,Second Class,Home Office,West,Office Supplies,Paper,238.32,1,0.1,0
+ORD-1479,7/6/2024,7/28/2024,Same Day,Corporate,Central,Technology,Accessories,213.32,7,0.3,-42.66
+ORD-1480,11/25/2024,7/30/2024,Same Day,Home Office,East,Furniture,Bookcases,379.79,2,0,37.98
+ORD-1481,1/17/2024,1/8/2024,First Class,Consumer,West,Furniture,Chairs,144.72,5,0.1,0
+ORD-1482,3/21/2024,11/6/2024,Second Class,Consumer,West,Office Supplies,Paper,423.86,3,0.1,0
+ORD-1483,1/4/2024,9/14/2024,First Class,Corporate,East,Office Supplies,Storage,412.72,1,0.2,-41.27
+ORD-1484,10/27/2024,2/18/2024,Second Class,Consumer,South,Technology,Copiers,373.89,3,0.1,0
+ORD-1485,6/6/2024,4/7/2024,Standard Class,Home Office,Central,Technology,Phones,225.2,8,0,22.52
+ORD-1486,1/1/2024,3/27/2024,First Class,Consumer,East,Furniture,Chairs,289.98,6,0.3,-58
+ORD-1487,11/4/2024,9/27/2024,Same Day,Home Office,Central,Technology,Accessories,385.97,4,0.3,-77.19
+ORD-1488,3/21/2024,8/27/2024,Standard Class,Home Office,South,Furniture,Chairs,450.81,3,0.3,-90.16
+ORD-1489,6/7/2024,10/15/2024,Same Day,Consumer,Central,Office Supplies,Paper,366.26,6,0.3,-73.25
+ORD-1490,4/17/2024,3/6/2024,Second Class,Consumer,West,Technology,Copiers,341.39,5,0.1,0
+ORD-1491,6/10/2024,9/7/2024,First Class,Consumer,Central,Furniture,Tables,259.65,3,0.1,0
+ORD-1492,11/10/2024,8/31/2024,Second Class,Home Office,Central,Furniture,Tables,73.68,6,0.2,-7.37
+ORD-1493,2/29/2024,1/15/2024,Second Class,Corporate,East,Technology,Phones,263.63,2,0.3,-52.73
+ORD-1494,3/11/2024,1/24/2024,Second Class,Consumer,Central,Technology,Accessories,173.67,7,0.1,0
+ORD-1495,11/26/2024,6/14/2024,Same Day,Home Office,East,Furniture,Bookcases,443.21,1,0.3,-88.64
+ORD-1496,2/14/2024,8/9/2024,First Class,Corporate,Central,Office Supplies,Paper,119.11,7,0.1,0
+ORD-1497,11/18/2024,9/2/2024,Standard Class,Consumer,South,Office Supplies,Paper,343.31,2,0.1,0
+ORD-1498,3/27/2024,1/6/2024,First Class,Home Office,West,Technology,Accessories,50.86,8,0.3,-10.17
+ORD-1499,7/13/2024,11/16/2024,Same Day,Consumer,West,Furniture,Chairs,261.65,4,0.2,-26.16
