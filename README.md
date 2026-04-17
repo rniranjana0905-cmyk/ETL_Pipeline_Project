@@ -54,13 +54,13 @@ CSV File → Pandas (Transform) → PostgreSQL (Neon)
 ```bash
 pip install -r requirements.txt
 python etl.py
-
+---
 📊 Output
 Data is stored in PostgreSQL table: sales
-![SQL Output 1](https://github.com/user-attachments/assets/fff89211-7cff-49a1-b30c-fe4655006246)
+![SQL Output 1](sql_output1.png)
 
-![SQL Output 2](https://github.com/user-attachments/assets/b7ea0e2d-b385-4fc3-bb7a-e601fef7a273)
-
+![SQL Output 2](sql_output2.png)
+---
 🔐 Environment Variables
 
 Create a .env file:
